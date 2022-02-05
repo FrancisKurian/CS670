@@ -1,5 +1,5 @@
-# CS670
-#Natural Language Processing
+# CS670 Natural Language Processing
+
 There are currently two different approaches to NLP.  The first one is the analysis of words, sentences, and 
 the  semantics  of  text.    There  are  various  software  packages  that  can  provide  these  capabilities.  These 
 software packages are Natural Language Tool Kit (NLTK), TextBlob, and spaCy.   
